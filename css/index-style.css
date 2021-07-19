@@ -1,0 +1,28 @@
+.background{
+  background-image: url("../images/bank.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.left
+{
+    width: 20%;
+    height: 70px;
+    float: left;
+    color: black;
+  
+   
+}
+.motto
+{
+  margin-top:100px;
+  margin-left:100px;
+}
+h1{
+  color: white;
+  font-weight: bold;
+  transition: 0.5s;
+  font-size: 60px;
+  font-family: 'Kaushan Script';
+padding-bottom:20px;
+}
